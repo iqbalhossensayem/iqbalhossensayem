@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iqbalhossensayem
 - 👀 I’m interested in Coding and Programming 
-- 🌱 I’m currently learning HTML, CSS, Python 
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
